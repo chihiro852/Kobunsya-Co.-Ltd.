@@ -1,0 +1,10 @@
+.map__list {
+  width: 70%;
+}
+.map__item:nth-child(1) {
+  margin-bottom: 20px;
+}
+.map__iframe--wrap {
+  margin: 10px 0;
+  height: 20vw;
+}
