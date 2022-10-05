@@ -1,0 +1,15 @@
+.top--text {
+  text-align: center;
+  background-color: #d3c1af;
+  height: 20vh;
+}
+.top--text h1 {
+  line-height: 20vh;
+  font-size: 4vw;
+}
+@media screen and (max-width: 768px){
+
+}
+@media screen and (min-width: 769px){
+
+}

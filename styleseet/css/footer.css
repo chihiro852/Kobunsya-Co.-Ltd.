@@ -1,0 +1,19 @@
+footer {
+  display: flex;
+  background-color: #d3c1af;
+}
+.footer__wrap {
+  display: flex;
+  margin-left: 10vw;
+}
+.footer__lists {
+  margin-right: 10vw;
+}
+.footer__listLink {
+  color: #ffffff;
+  font-size: 1.5vw;
+}
+@media screen and (max-width: 768px){
+}
+@media screen and (min-width: 769px){
+}
